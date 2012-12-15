@@ -4,7 +4,7 @@ A simple program to simulate how to ping to another host. This program is using 
 
 ##Screenshot
 
-![Screenshot](ss.png)
+![Screenshot](http://f.cl.ly/items/1a3E2f3L363t012y0j29/Screenshot%20from%202012-12-16%2004:08:56.png)
 
 ## About
 
